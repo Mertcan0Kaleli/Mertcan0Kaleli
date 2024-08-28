@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mertcan0Kaleli
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Ue5 BluePrint and Modeling
+- 📫 How to reach me discord : .mertcn
